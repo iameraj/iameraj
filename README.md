@@ -6,11 +6,11 @@ I'm a passionate computer science student with a keen interest in web developmen
 ## 🚀 What I'm Currently Working On
 - 🔭 Exploring the latest web development trends and technologies.
 - 🌐 Building responsive and user-friendly web applications.
-- 📚 Learning more about backend development to complement my frontend skills.
+- 📚 Learning about backend development.
 
 ## 💻 Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Frontend:** React.js, Vue.js
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VSCode, Nvim
