@@ -1,4 +1,5 @@
 # Welcome! 👋
+![image](https://github.com/iameraj/iameraj/assets/135554085/8e975ad8-caec-493f-ab82-706962bfb060)
 
 ## About Me
 I'm a passionate computer science student with a keen interest in web development. I love exploring new technologies, solving problems, and building cool stuff for the web. This GitHub profile is a showcase of my journey in the world of coding.
@@ -25,5 +26,7 @@ I'm always striving to improve and expand my skill set. Here are some of my goal
 
 Feel free to reach out if you share similar interests or have any collaboration ideas. I'm always excited to connect with fellow developers!
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Top languages
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iameraj&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iameraj)](https://github.com/anuraghazra/github-readme-stats)
+
