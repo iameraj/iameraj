@@ -1,5 +1,7 @@
 # Welcome! 👋
+<picture>
 ![image](https://github.com/iameraj/iameraj/assets/135554085/8e975ad8-caec-493f-ab82-706962bfb060)
+</picture>
 
 ## About Me
 I'm a passionate computer science student with a keen interest in web development. I love exploring new technologies, solving problems, and building cool stuff for the web. This GitHub profile is a showcase of my journey in the world of coding.
