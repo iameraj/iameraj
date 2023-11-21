@@ -1,11 +1,10 @@
-# Welcome! 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./1700566042247.png">
   <source media="(prefers-color-scheme: light)" srcset="./1700566042247.png">
   <img alt="iameraj Banner" src="./1700566042247.png">
 </picture>
 
-## About Me
+# Hi! Meraj here👋
 I'm a passionate computer science student with a keen interest in web development. I love exploring new technologies, solving problems, and building cool stuff for the web. This GitHub profile is a showcase of my journey in the world of coding.
 
 ## 🚀 What I'm Currently Working On
