@@ -1,6 +1,8 @@
 # Welcome! 👋
 <picture>
-![image](https://github.com/iameraj/iameraj/assets/135554085/8e975ad8-caec-493f-ab82-706962bfb060)
+  <source media="(prefers-color-scheme: dark)" srcset="./1700566042247.png">
+  <source media="(prefers-color-scheme: light)" srcset="./1700566042247.png">
+  <img alt="iameraj Banner" src="./1700566042247.png">
 </picture>
 
 ## About Me
@@ -28,7 +30,6 @@ I'm always striving to improve and expand my skill set. Here are some of my goal
 
 Feel free to reach out if you share similar interests or have any collaboration ideas. I'm always excited to connect with fellow developers!
 
-## 📊 GitHub Stats & Top languages
+## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iameraj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iameraj)](https://github.com/anuraghazra/github-readme-stats)
 
