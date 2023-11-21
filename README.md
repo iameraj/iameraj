@@ -9,8 +9,7 @@ I'm a passionate computer science student with a keen interest in web developmen
 - 📚 Learning about backend development.
 
 ## 💻 Tech Stack
-- **Languages:** ![image](https://github.com/iameraj/iameraj/assets/135554085/f972cad7-460c-4d87-b6c2-f45c9faa23bc)
-, CSS, JavaScript, Python
+- **Languages:** HTML, CSS, JavaScript, Python
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
