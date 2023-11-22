@@ -28,7 +28,3 @@ I'm always striving to improve and expand my skill set. Here are some of my goal
 
 
 Feel free to reach out if you share similar interests or have any collaboration ideas. I'm always excited to connect with fellow developers!
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iameraj&show_icons=true&theme=radical)
-
