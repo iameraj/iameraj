@@ -1,7 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./1700566042247.png">
-  <source media="(prefers-color-scheme: light)" srcset="./1700566042247.png">
-  <img alt="iameraj Banner" src="./1700566042247.png">
+  <img alt="iameraj Banner" src="svgMeraj_coverpage_for_github.svg">
 </picture>
 
 # Hi! Meraj here👋
