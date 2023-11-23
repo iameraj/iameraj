@@ -1,5 +1,5 @@
 <picture>
-  <img alt="iameraj Banner" src="svgMeraj_coverpage_for_github.svg">
+  <img alt="iameraj Banner" src="1700566042247.png">
 </picture>
 
 # Hi! Meraj here👋
