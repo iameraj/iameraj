@@ -21,7 +21,7 @@ I'm a CS student. I  enjoy exploring new technologies and building cool stuff fo
 ## And my stats 📊
 
 ![Meraj's stats](https://github-readme-stats.vercel.app/api?username=iameraj&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iameraj&hide=c&theme=gruvbox&langscount=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iameraj&hide=c&theme=gruvbox&langs_count=3)
 
 
 
