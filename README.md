@@ -25,12 +25,12 @@ I'm a CS student. I  enjoy exploring new technologies and building cool stuff fo
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,nvim,mongodb,mysql" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,nvim," /> 
+<img src="https://skillicons.dev/icons?i=" /> 
   </a>
 </p>
  
