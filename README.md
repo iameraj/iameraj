@@ -16,9 +16,9 @@ I'm a CS student. I  enjoy exploring new technologies and building cool stuff fo
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,html,css" /><br>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,react" /> <br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" /> <br>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,nvim," /> <br>
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,react" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,nvim," /> <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> <br>
   </a>
 </p>
 # And my stats
