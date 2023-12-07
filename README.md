@@ -9,7 +9,6 @@ I'm a passionate computer science student with a keen interest in web developmen
 - 🔭 Exploring the latest web development trends and technologies.
 - 🌐 Building responsive and user-friendly web applications.
 - 📚 Learning about backend development.
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iameraj&theme=gruvbox)
 
 ## 💻 Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python
@@ -18,7 +17,8 @@ I'm a passionate computer science student with a keen interest in web developmen
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VSCode, Nvim
   
-![Merajs GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Merajs GitHub stats](https://github-readme-stats.vercel.app/api?username=iameraj&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iameraj&theme=gruvbox)
 
 ## 🌱 Goals for the Future
 I'm always striving to improve and expand my skill set. Here are some of my goals for the near future:
