@@ -13,13 +13,10 @@ I'm a CS student. I  enjoy exploring new technologies and building cool stuff fo
 
 ## What I know 💻 
 
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=django,nodejs,express,react" /><br>
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,nvim,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,nodejs,express,react,git,docker,vscode,nvim,mongodb,mysql" />
   </a>
-</p>
+
  
 ## And my stats 📊
 
