@@ -17,6 +17,8 @@ I'm a passionate computer science student with a keen interest in web developmen
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VSCode, Nvim
 
+  [![My stats](https://github-readme-stats.vercel.app/api?username=iameraj)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌱 Goals for the Future
 I'm always striving to improve and expand my skill set. Here are some of my goals for the near future:
 - 🎓 Graduate with a strong foundation in computer science.
