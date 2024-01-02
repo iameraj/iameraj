@@ -1,5 +1,5 @@
 <picture>
-  <img alt="iameraj Banner" src="1700566042247.png">
+  <img alt="iameraj Banner" src="1700566042247.webp">
 </picture>
 
 # Hi! Meraj here👋
