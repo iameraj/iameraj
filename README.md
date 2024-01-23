@@ -1,8 +1,5 @@
-<picture>
-  <img alt="iameraj Banner" src="1700566042247.webp">
-</picture>
-
 # Hi! Meraj here👋
+
 I'm a CS student. I  enjoy exploring new technologies and building cool stuff for the web.
 
 ## My goals 🚀
@@ -15,7 +12,7 @@ I'm a CS student. I  enjoy exploring new technologies and building cool stuff fo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,nodejs,express,react,git,docker,vscode,neovim,nvim,mongodb,mysql&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,nodejs,express,react,git,docker,vscode,neovim,nvim,mongodb,postgresql" />
   </a>
 </p>
  
