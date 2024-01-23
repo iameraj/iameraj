@@ -12,7 +12,7 @@ I'm a CS student. I  enjoy exploring new technologies and building cool stuff fo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,nodejs,express,react,git,docker,vscode,neovim,nvim,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,nodejs,express,react,git,docker,vscode,neovim,mongodb,postgresql" />
   </a>
 </p>
  
