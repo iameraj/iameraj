@@ -2,12 +2,6 @@
 
 I'm a CS student. I  enjoy exploring new technologies and building cool stuff for the web.
 
-## My goals 🚀
-
-- 🔭 Explore new web development trends and techs.
-- 🌐 Build responsive and user-friendly web applications.
-- 📚 Learn about backend development.
-
 ## What I know 💻 
 
 <p align="center">
