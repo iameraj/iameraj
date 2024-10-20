@@ -2,16 +2,7 @@
 
 I'm a CS student. I  enjoy exploring new technologies and building cool stuff for the web.
 
-## What I know 💻 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,nodejs,express,react,git,docker,vscode,neovim,mongodb,postgresql" />
-  </a>
-</p>
  
-## And my stats 📊
-
 <p align="center">
   
 ![Meraj's stats](https://github-readme-stats.vercel.app/api?username=iameraj&show_icons=true&theme=gruvbox&line_height=27)
