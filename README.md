@@ -1,7 +1,6 @@
 # Hi! Meraj here👋
 
-I'm a CS student. I  enjoy exploring new technologies and building cool stuff for the web.
-
+I'm a CS student. I  enjoy exploring new technologies and building cool stuff
  
 <p align="center">
   
